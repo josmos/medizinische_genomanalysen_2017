@@ -8,7 +8,11 @@ Material and information about the lecture "Medizinische Genomanalysen"
 * All assignments need to be completed by **01.04.2017**
 * Review process takes place from 02.04.2017 01.05.2017
 * Each student needs to review all three assignments of two other students
-* Send the review reports (2 students, 3 assignments each) latest on 01.05.2017 to stephan 'dot' pabinger 'at' ait 'dot' ac 'dot' at
+* Send the review reports (2 students, 3 assignments each) latest on **01.05.2017** to <br/>
+email: stephan 'dot' pabinger 'at' ait 'dot' ac 'dot' at<br/>
+subject: Medizinische Genomanalysen 2017 - Peer Review<br/>
+filetype: PDF
+length: **5-10 sentences** per assignment
 
 
 ## Assignment 1
