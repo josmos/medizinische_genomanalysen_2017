@@ -13,6 +13,7 @@ email: stephan 'dot' pabinger 'at' ait 'dot' ac 'dot' at<br/>
 subject: Medizinische Genomanalysen 2017 - Peer Review<br/>
 filetype: PDF
 length: **5-10 sentences** per assignment
+checks: correct assignment, working code, documentation
 
 
 ## Assignment 1
