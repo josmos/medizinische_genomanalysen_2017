@@ -37,14 +37,13 @@ Repository: [medizinische_genomanalysen_2017_assignment_1](https://github.com/sp
 | Gutsohn	Tamás | Lehrach, Buchner | 
 | Juno	Claudia | Spielvogel, Brauneis | 
 | Lang	Priska | Juno, Gutsohn | 
-| Lehrach	Michael | Schwarz, Beganovic | 
+| Lehrach	Michael | Buchner, Beganovic | 
 | Majewski	Anna | Ruge, Lehrach | 
 | Moser	Josef | Gollobich, Bindeus | 
 | Ruge	Frank | Basílio, Lang | 
-| Schwarz	Thomas | Buchner, Spielvogel | 
 | Spielvogel	Clemens | Tomaselli, Ruge | 
 | Tolios	Alexander | Moser, Majewski | 
-| Tomaselli	Anna | Bindeus, Schwarz | 
+| Tomaselli	Anna | Bindeus, Spielvogel | 
 
 
 
