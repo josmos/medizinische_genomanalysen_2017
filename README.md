@@ -11,8 +11,8 @@ Material and information about the lecture "Medizinische Genomanalysen"
 * Send the review reports (2 students, 3 assignments each) latest on **01.05.2017** to <br/>
 email: stephan 'dot' pabinger 'at' ait 'dot' ac 'dot' at<br/>
 subject: Medizinische Genomanalysen 2017 - Peer Review<br/>
-filetype: PDF
-length: **5-10 sentences** per assignment
+filetype: PDF<br/>
+length: **5-10 sentences** per assignment<br/>
 checks: correct assignment, working code, correct results, documentation
 
 ## Data and packages for Python assignments
