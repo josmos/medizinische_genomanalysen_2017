@@ -13,12 +13,18 @@ email: stephan 'dot' pabinger 'at' ait 'dot' ac 'dot' at<br/>
 subject: Medizinische Genomanalysen 2017 - Peer Review<br/>
 filetype: PDF
 length: **5-10 sentences** per assignment
-checks: correct assignment, working code, documentation
+checks: correct assignment, working code, correct results, documentation
 
 ## Data and packages for Python assignments
 #### Data
 * BAM file: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/HG00096/alignment/HG00096.chrom11.ILLUMINA.bwa.GBR.low_coverage.20120522.bam 
-* 
+* VCF file:
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/IonTorrent_TVC_03162015/AmpliseqExome.20141120.NA24385.vcf
+* VCF file: 
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/IonTorrent_TVC_03162015/AmpliseqExome.20141120.NA24143.vcf
+* VCF file:
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/IonTorrent_TVC_03162015/AmpliseqExome.20141120.NA24149.vcf
+  
 #### Packages
 * Biopython (http://biopython.org/)
 * pybedtools (https://daler.github.io/pybedtools/)
@@ -27,14 +33,17 @@ checks: correct assignment, working code, documentation
 * pysam (http://pysam.readthedocs.io/en/latest/usage.html)
 * cyvcf2 (https://github.com/brentp/cyvcf2)
 * pyvcf (http://pyvcf.readthedocs.io/en/latest/)
+* HGVS (https://hgvs.readthedocs.io/en/master/)
 
 
 ## Assignment 1
 Repository: [medizinische_genomanalysen_2017_assignment_1](https://github.com/spabinger/medizinische_genomanalysen_2017_assignment_1)
 
 ## Assignment 2
+Repository: [medizinische_genomanalysen_2017_assignment_2](https://github.com/spabinger/medizinische_genomanalysen_2017_assignment_2)
 
 ## Assignment 3
+Repository: [medizinische_genomanalysen_2017_assignment_3](https://github.com/spabinger/medizinische_genomanalysen_2017_assignment_3)
 
 
 ## Peer Review - students
