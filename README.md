@@ -15,6 +15,19 @@ filetype: PDF
 length: **5-10 sentences** per assignment
 checks: correct assignment, working code, documentation
 
+## Data and packages for Python assignments
+#### Data
+* BAM file: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/phase3/data/HG00096/alignment/HG00096.chrom11.ILLUMINA.bwa.GBR.low_coverage.20120522.bam 
+* 
+#### Packages
+* Biopython (http://biopython.org/)
+* pybedtools (https://daler.github.io/pybedtools/)
+* NCBI (http://biopython.org/DIST/docs/api/Bio.Entrez-module.html)
+* pybam (https://github.com/JohnLonginotto/pybam)
+* pysam (http://pysam.readthedocs.io/en/latest/usage.html)
+* cyvcf2 (https://github.com/brentp/cyvcf2)
+* pyvcf (http://pyvcf.readthedocs.io/en/latest/)
+
 
 ## Assignment 1
 Repository: [medizinische_genomanalysen_2017_assignment_1](https://github.com/spabinger/medizinische_genomanalysen_2017_assignment_1)
@@ -33,8 +46,8 @@ Repository: [medizinische_genomanalysen_2017_assignment_1](https://github.com/sp
 | Bindeus	Alexander | Beganovic, Tolios | 
 | Brauneis	Shelley | Tolios, Tomaselli | 
 | Buchner	Bianca Allegra | Majewski, Juno | 
-| Gollobich	Martin | Lang, Gollobich | 
-| Gutsohn	Tamás | Lehrach, Buchner | 
+| Gollobich	Martin | Lang, Lehrach | 
+| Gutsohn	Tamás | Gollobich, Buchner | 
 | Juno	Claudia | Spielvogel, Brauneis | 
 | Lang	Priska | Juno, Gutsohn | 
 | Lehrach	Michael | Buchner, Beganovic | 
@@ -47,7 +60,7 @@ Repository: [medizinische_genomanalysen_2017_assignment_1](https://github.com/sp
 
 
 ## Student projects
-TODO -> put online
+TODO -> will be online soon
 
 
 
