@@ -33,7 +33,7 @@ ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/IonTorren
 * pysam (http://pysam.readthedocs.io/en/latest/usage.html)
 * cyvcf2 (https://github.com/brentp/cyvcf2)
 * pyvcf (http://pyvcf.readthedocs.io/en/latest/)
-* HGVS (https://hgvs.readthedocs.io/en/master/)
+* HGVS - does only work with Python2! (https://hgvs.readthedocs.io/en/master/)
 
 
 ## Assignment 1
